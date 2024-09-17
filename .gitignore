@@ -1,0 +1,3 @@
+argocd-api-01/.helmignore
+
+venv/
